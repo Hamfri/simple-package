@@ -1,6 +1,6 @@
 <?php
 require __DIR__ . '/vendor/autoload.php';
-use SimplePackage\ForComposer\Simple;
+use hamfri\SimplePackage\Simple;
 
 $simple = new Simple();
 
