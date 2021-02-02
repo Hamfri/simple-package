@@ -1,5 +1,5 @@
 <?php
-namespace SimplePackage\ForComposer;
+namespace hamfri\SimplePackage;
 
 class Simple
 {

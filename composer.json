@@ -15,7 +15,7 @@
   },
   "autoload": {
     "psr-4": {
-      "SimplePackage\\ForComposer\\": "./src"
+      "hamfri\\SimplePackage\\": "./src"
     }
   }
 }
